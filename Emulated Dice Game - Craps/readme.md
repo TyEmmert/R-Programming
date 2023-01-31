@@ -4,4 +4,4 @@ craps() plays the game and tells you whether you win or lose.
 
 cleancraps() is the same game, but without print commands.  
 
-I replicated cleancraps() and simulated the percent chance to win.
+chancetowincraps() plays the game 100000 times and retuns the percent chance to win.
