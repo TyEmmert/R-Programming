@@ -1,2 +1,3 @@
 # R-Programming
-Data Visuals &amp; Dashboards
+Data Visuals, dashboards, and programming.
+
